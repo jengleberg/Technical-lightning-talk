@@ -1,6 +1,6 @@
 # Introduction to Laravel
 
-(https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png)
+![](https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png)
 
 ## What is Laravel?
 
