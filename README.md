@@ -4,11 +4,15 @@
 
 ## What is Laravel?
 
-Laravel is a free, open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller (MVC) architectural pattern. Some of the features of Laravel are a modular packaging system with a dedicated dependency manager, different ways for accessing relational databases, utilities that aid in application deployment and maintenance, and its orientation toward syntactic sugar.  A new term I learned, in computer science, syntactic sugar is syntax within a programming language that is designed to make things easier to read or to express. It makes the language "sweeter" for human use: things can be expressed more clearly, more concisely, or in an alternative style that some may prefer.
+Laravel is a free, open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller (MVC) architectural pattern. 
 
 Laravel is regarded as one of the most popular PHP frameworks, together with Symfony, Zend, CodeIgniter, Yii2 and others.
 
 The source code of Laravel is hosted on GitHub and licensed under the terms of MIT License.
+
+## Architecture of a Laravel Application
+
+![](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwi-0ZC-o-DXAhVIx2MKHYPcCv8QjRwIBw&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F33148455%2Fmvc-in-php-framework&psig=AOvVaw1Oxok1yftZR4raK_rWEoWF&ust=1511924413212624)
 
 ## Benefits of Laraval
 
