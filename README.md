@@ -12,7 +12,7 @@ The source code of Laravel is hosted on GitHub and licensed under the terms of M
 
 ## Architecture of a Laravel Application
 
-![](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwi-0ZC-o-DXAhVIx2MKHYPcCv8QjRwIBw&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F33148455%2Fmvc-in-php-framework&psig=AOvVaw1Oxok1yftZR4raK_rWEoWF&ust=1511924413212624)
+![](https://i.stack.imgur.com/4qglC.png)
 
 ## Benefits of Laraval
 
